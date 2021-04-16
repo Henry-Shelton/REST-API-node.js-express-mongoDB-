@@ -15,4 +15,5 @@ Viewstores.ejs, previewstores.ejs and updatestore.ejs all for user front-end inp
 !!!!!!!!!
 
 For full app access (login system / bcrypt security / passport strategy / stripe payment processing / webhooks / authentication + mail system / .env secrets / all webpages + backend BD and cloud web hosting info) message me.
+
 !!!!!!!!!
